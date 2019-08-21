@@ -1,0 +1,40 @@
+<html>
+
+	<head>
+		<title> Sample Project Page </title>
+	</head>
+	<body>
+		<nav>
+			<ul>
+				<li>
+				<a href = "Bio_Page.html">
+				Home
+				</a>
+				</li>
+			
+			</ul>
+			<ul>
+				<li>
+				<a href = "Bio_Storm.html">
+				Sample Project Page
+				</a>
+				</li>
+			</ul>
+		</nav>
+	
+	
+		<h1> This is a sample plot of Cavendish Data</h1>
+		<p>This is a random plot of cavendish data</p>
+		<figure>
+			<img src="CavenData.gif"
+			alt= "scatterplot"
+			title = "Scatter Plot!!"/>
+			<figcaption>
+			This is plot of our results.
+			</figcaption>
+		</figure>
+
+
+
+	</body>
+</html>
