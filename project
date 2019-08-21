@@ -7,7 +7,7 @@
 		<nav>
 			<ul>
 				<li>
-				<a href = "Bio_Page.html">
+				<a href = "index.html">
 				Home
 				</a>
 				</li>
@@ -15,7 +15,7 @@
 			</ul>
 			<ul>
 				<li>
-				<a href = "Bio_Storm.html">
+				<a href = "project.html">
 				Sample Project Page
 				</a>
 				</li>
